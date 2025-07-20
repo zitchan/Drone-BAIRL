@@ -14,7 +14,7 @@ imitation = 1.0.1<br>
 Windows 10<br>
 Python 3.10.13<br>
 
-## 🔌 env
+## 🔌 env and model
 Download：https://drive.google.com/file/d/1PP7fZ1aoXN4u-jsJjv2CFm5q5xAD4mbV/view?usp=sharing <br>
 
 ## 🔥 Training
