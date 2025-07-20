@@ -21,8 +21,8 @@ Download：https://drive.google.com/file/d/1PP7fZ1aoXN4u-jsJjv2CFm5q5xAD4mbV/vie
 
 run main.py<br>
 Hyperparameter selection: <br>
-PPO: https://huggingface.co/HumanCompatibleAI/ppo-seals-Humanoid-v0<br>
-reward net: demo_batch_size=2048, gen_replay_buffer_capacity=512, n_disc_updates_per_round=4, lambda_reg=0.01<br>
+PPO: <br> https://huggingface.co/HumanCompatibleAI/ppo-seals-Humanoid-v0<br> n_step=2048 batch_size=512 <br>
+reward net: <br> demo_batch_size=2048, gen_replay_buffer_capacity=512, n_disc_updates_per_round=4, lambda_reg=0.01<br>
 
 ## 😄 Reference & acknowledgment
 
